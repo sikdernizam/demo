@@ -3,16 +3,16 @@
     trackingno:131,
     liabilities:{
       withsebl:[{
-        accountnumber:"732-43"
+        accountnumber:"732-43",
         amount:100000
       }],
       otherbankloan:[{
-        bankname:"IBBL"
-        facilitytype:"OD"
+        bankname:"IBBL",
+        facilitytype:"OD",
         amount:100000
       }],
       otherbankcreditcard:[{
-      bankname:"CBL"        
+      bankname:"CBL",        
         amount:1000000
       }],
   asset:{
