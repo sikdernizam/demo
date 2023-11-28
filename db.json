@@ -1,25 +1,14 @@
 {
-  "networthinfo":{
-    "trackingno":131,
-    "liabilities":{
-      "withsebl":[{
-        "accountnumber":"732-43",
-        "amount":100000
-      }],
-      "otherbankloan":[{
-        "bankname":"IBBL",
-        "facilitytype":"OD",
-        "amount":100000
-      }],
-      "otherbankcreditcard":[{
-      "bankname":"CBL",        
-        "amount":1000000
-      }],
-  "asset":{
-    "cash":50000,
-    "fdr":100000,
-    "land":1000000,
-    "others":0
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
-  
