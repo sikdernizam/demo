@@ -10,5 +10,28 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "networthinfo":{
+    "trackingno":131,
+    "liabilities":{
+      "withsebl":[{
+        "accountnumber":"732-43",
+        "amount":100000
+      }],
+      "otherbankloan":[{
+        "bankname":"IBBL",
+        "facilitytype":"OD",
+        "amount":100000
+      }],
+      "otherbankcreditcard":[{
+      "bankname":"CBL",        
+        "amount":1000000
+      }]},
+  "asset":{
+    "cash":50000,
+    "fdr":100000,
+    "land":1000000,
+    "others":0
   }
+}
 }
