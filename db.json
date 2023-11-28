@@ -14,14 +14,12 @@
       otherbankcreditcard:[{
       bankname:"CBL"        
         amount:1000000
-      }]
-    },
+      }],
   asset:{
     cash:50000,
     fdr:100000,
     land:1000000,
     others:0
   }
+}   
   
-  }
-}
